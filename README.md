@@ -1,6 +1,6 @@
 # resize-any-website-you-want
 this change css of any web. Of course, this only happen in your display (only in chorme or firefox)
-
+   shout out for Gemini and https://www.youtube.com/watch?v=dXTU15EAcCI
 1. go to chorme extensions
 2. install extension: Stylus (icon S - green - update last 1/4/2026)
 3. back your web you want to change css 
