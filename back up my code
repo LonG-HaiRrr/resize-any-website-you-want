@@ -1,0 +1,57 @@
+@-moz-document url-prefix("https://knowt.com/study/flashcards/") {
+div.breakpoints-module__zbexiG__smDownDisplayNone {
+    padding-top: 5px !important; /* Ghi đè 40px bằng 5px */
+}
+    div.breakpoints-module__zbexiG__mdDownColumnReverse{
+        margin: 30px 0px 0px 0px!important;
+    }
+
+span.bold {
+    margin: 20px !important; /* Ghi đè 1rem */
+    font-size: 1.2rem !important;  /* Thu nhỏ chữ hướng dẫn lại để tiết kiệm diện tích */
+    display: block !important;
+}
+    div.studyPage-module__2Yqjuq__container{
+        width: 1000px !important;
+/*         margin: 0 30px 0 30px !important; */
+        min-width: 1750px !important;
+
+    }
+    div.studyPage-module__2Yqjuq__flashcardCard{
+        font-size: 5.7rem;
+        padding: 30px 10px 50px 10px !important;
+    }    
+    p{
+        font-size: 3.7rem 
+    }
+    
+div.breakpoints-module__zbexiG__mdDownColumnReverse div.ProseMirror {
+    margin-left: 90px !important;
+}
+    
+    
+div.studyNavbar-module__ci9FBa__container {
+    height: 60px !important; /* Ép chiều cao mỏng lại */
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    gap: 0.5rem !important; /* Thu hẹp khoảng cách giữa các nút */
+    overflow: hidden !important; /* Ẩn đi những phần tử thừa bị tràn */
+}
+    
+    
+    
+    
+    
+    
+    div.studyPage-module__2Yqjuq__container{
+        height: calc(100vh - var(--90vh)) !important;
+    }
+    div.knowt-lbl9ok{
+         padding: 18px !important;
+    }
+    
+
+.flashcardWithAnswerInput-module__IzbJIa__optionTemplateColumn {
+    gap: 1rem !important; /* Thu hẹp một chút khoảng trống giữa các đáp án nếu cần */
+}
+}
