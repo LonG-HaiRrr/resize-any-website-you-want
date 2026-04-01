@@ -56,7 +56,7 @@ div.studyNavbar-module__ci9FBa__container {
 }
 }
 
-/*4.result*/
+8. result
 from this
 <img width="1917" height="914" alt="Screenshot 2026-04-01 101027" src="https://github.com/user-attachments/assets/750d1a63-43f7-4d50-8838-c537381af5d4" />
 to this
