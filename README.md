@@ -8,6 +8,8 @@ this change css of any web. Of course, this only happen in your display (only in
 5. Click exactly their url / click Manage and find it
 6. change https://knowt.com/study/flashcards/41fd6820-2b76-45ae-bc28-6d39223915eb1/learn or something like that to https://knowt.com/study/flashcards/    (doing with same web have same start url)
 7. paste this or start to code your UI you want:
+   
+<img width="1888" height="861" alt="Screenshot 2026-04-01 100309" src="https://github.com/user-attachments/assets/db2b0774-1f78-4c56-8690-4ff85e36c788" />
 
 @-moz-document url-prefix("https://knowt.com/study/flashcards/") {
 div.breakpoints-module__zbexiG__smDownDisplayNone {
@@ -55,6 +57,5 @@ div.studyNavbar-module__ci9FBa__container {
 
 
 
-<img width="1888" height="861" alt="Screenshot 2026-04-01 100309" src="https://github.com/user-attachments/assets/db2b0774-1f78-4c56-8690-4ff85e36c788" />
 
 
