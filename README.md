@@ -52,6 +52,7 @@ div.studyNavbar-module__ci9FBa__container {
     gap: 1rem !important; /* Thu hẹp một chút khoảng trống giữa các đáp án nếu cần */
 }
 }
+<img width="1561" height="868" alt="Screenshot 2026-04-01 094014" src="https://github.com/user-attachments/assets/70c67586-33fb-43e9-8b19-6c4ef857b4b1" />
 
 
 
