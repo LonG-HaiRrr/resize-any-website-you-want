@@ -12,6 +12,7 @@ this change css of any web. Of course, this only happen in your display (only in
 <img width="1888" height="861" alt="Screenshot 2026-04-01 100309" src="https://github.com/user-attachments/assets/db2b0774-1f78-4c56-8690-4ff85e36c788" />
 
 @-moz-document url-prefix("https://knowt.com/study/flashcards/") {
+     /*1.start_code*/
 div.breakpoints-module__zbexiG__smDownDisplayNone {
     padding-top: 5px !important; /* Ghi đè 40px bằng 5px */
 }
@@ -19,7 +20,7 @@ div.breakpoints-module__zbexiG__smDownDisplayNone {
         margin: 30px 0px 0px 0px!important;
     }
     
-   /* 2. Tối thiểu hóa phần ngăn cách chứa chữ "Select the matching term" */
+       /* 2. Tối thiểu hóa phần ngăn cách chứa chữ "Select the matching term" */
 span.bold {
     margin-bottom: 2px !important; /* Ghi đè 1rem */
     font-size: 0.8rem !important;  /* Thu nhỏ chữ hướng dẫn lại để tiết kiệm diện tích */
@@ -55,6 +56,11 @@ div.studyNavbar-module__ci9FBa__container {
 }
 }
 
+/*4.result*/
+from this
+<img width="1917" height="914" alt="Screenshot 2026-04-01 101027" src="https://github.com/user-attachments/assets/750d1a63-43f7-4d50-8838-c537381af5d4" />
+to this
+<img width="1910" height="909" alt="Screenshot 2026-04-01 100952" src="https://github.com/user-attachments/assets/57b3cd5e-be9c-47b1-a107-660a9a12b340" />
 
 
 
